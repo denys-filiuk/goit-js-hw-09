@@ -23,6 +23,12 @@ a {
   text-decoration: none;
 }
 
+input,
+button,
+textarea {
+  font-size: inherit;
+}
+
 button {
   cursor: pointer;
 }
